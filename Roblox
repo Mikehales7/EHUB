@@ -1,1 +1,2 @@
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Mikehales7/PF/main/Script.lua"))()
+--Arsenal is temp removed sorry please wait for an update
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Mikehales7/PF/main/Script.lua"))()
