@@ -1,5 +1,5 @@
 if game.PlaceId == 292439477 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Mikehales7/PF/main/Script.lua"))()
 elseif game.PlaceId == 286090429 then
-https://raw.githubusercontent.com/Mikehales7/AL/main/Script.lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Mikehales7/AL/main/Script.lua"))()
 end
